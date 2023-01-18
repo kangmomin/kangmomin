@@ -1,4 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koldin108902&show_icons=true&theme=react)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kangmomin&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangmomin&layout=compact&theme=tokyonight)
 
 ------
 [![Golang](https://badge3.vlue.dev/badge/forthebadge?message=go&color=007d9c)](https://go.dev/)
